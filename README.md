@@ -1,7 +1,7 @@
-# COEN352-Breast-Cancer-Diagnosis-Model
 
 # Machine-Learning Model for Breast Cancer Diagnosis
 (project from COEN352: Data Structure and Algorithm)
+
 
 This code, written in Java, is a model that uses machine-learning algorithms, to predict whether a patient has
 cancerous cells based on a set of information. The model will be given a set of different
